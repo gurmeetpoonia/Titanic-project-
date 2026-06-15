@@ -51,14 +51,6 @@ requirements.txt
 README.md
 
 ---
-
-## ⚙️ How to Run Locally
-
-```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
-pip install -r requirements.txt
-streamlit run app.py
 ## 📌 How It Works
 1. User enters passenger details in UI
 2. Data is processed and encoded
@@ -74,3 +66,12 @@ streamlit run app.py
 
 ## 👨‍💻 Author
 Gurmeet Punia
+----
+
+## ⚙️ How to Run Locally
+
+```bash
+git clone https://github.com/your-username/your-repo-name.git
+cd your-repo-name
+pip install -r requirements.txt
+streamlit run app.py
