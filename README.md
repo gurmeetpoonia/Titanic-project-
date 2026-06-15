@@ -4,7 +4,7 @@ This is a Machine Learning web application built using Streamlit that predicts w
 
 ---
 
-## 🚀 Live Demo
+## 🚀 Live Demohttps://github.com/gurmeetpoonia/Titanic-project-/edit/main/README.md
 👉 https://unxnuvmmjzxu9btybj4zqe.streamlit.app/
 
 ---
@@ -45,3 +45,17 @@ This project demonstrates a complete end-to-end Machine Learning workflow:
 ---
 
 ## 📁 Project Structure
+app.py
+titanic_model.pkl
+requirements.txt
+README.md
+
+---
+
+## ⚙️ How to Run Locally
+
+```bash
+git clone https://github.com/your-username/your-repo-name.git
+cd your-repo-name
+pip install -r requirements.txt
+streamlit run app.py
