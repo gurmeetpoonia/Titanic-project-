@@ -45,27 +45,27 @@ This project demonstrates a complete end-to-end Machine Learning workflow:
 ---
 
 ## 📁 Project Structure
-   app.py
-   titanic_model.pkl
-   requirements.txt
-   README.md
+- app.py
+- titanic_model.pkl
+- requirements.txt
+- README.md
 
 ---
 ## 📌 How It Works
-1. User enters passenger details in UI
-2. Data is processed and encoded
-3.Trained ML model predicts survival
-4.Output is displayed as:
-   . 0 → Not Survived
-   . 1 → Survived
+-1. User enters passenger details in UI
+-2. Data is processed and encoded
+-3.Trained ML model predicts survival
+-4.Output is displayed as:
+  - . 0 → Not Survived
+  - . 1 → Survived
 ## 🎯 Key Learnings
-. Building ML pipeline from scratch
-. Handling real-world dataset
-. Model serialization using Pickle
-. Web deployment using Streamlit
+-. Building ML pipeline from scratch
+-. Handling real-world dataset
+-. Model serialization using Pickle
+-. Web deployment using Streamlit
 
 ## 👨‍💻 Author
-Gurmeet Punia
+-Gurmeet Punia
 ----
 
 ## ⚙️ How to Run Locally
