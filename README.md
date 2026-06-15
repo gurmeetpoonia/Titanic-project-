@@ -59,3 +59,18 @@ git clone https://github.com/your-username/your-repo-name.git
 cd your-repo-name
 pip install -r requirements.txt
 streamlit run app.py
+## 📌 How It Works
+1. User enters passenger details in UI
+2. Data is processed and encoded
+3.Trained ML model predicts survival
+4.Output is displayed as:
+   . 0 → Not Survived
+   . 1 → Survived
+## 🎯 Key Learnings
+. Building ML pipeline from scratch
+. Handling real-world dataset
+. Model serialization using Pickle
+. Web deployment using Streamlit
+
+## 👨‍💻 Author
+Gurmeet Punia
