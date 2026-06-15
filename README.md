@@ -52,20 +52,20 @@ This project demonstrates a complete end-to-end Machine Learning workflow:
 
 ---
 ## 📌 How It Works
--1. User enters passenger details in UI
--2. Data is processed and encoded
--3.Trained ML model predicts survival
--4.Output is displayed as:
-  - . 0 → Not Survived
-  - . 1 → Survived
+- User enters passenger details in UI
+- Data is processed and encoded
+- Trained ML model predicts survival
+- Output is displayed as:
+  -  0 → Not Survived
+  -  1 → Survived
 ## 🎯 Key Learnings
--. Building ML pipeline from scratch
--. Handling real-world dataset
--. Model serialization using Pickle
--. Web deployment using Streamlit
+- Building ML pipeline from scratch
+- Handling real-world dataset
+- Model serialization using Pickle
+- Web deployment using Streamlit
 
 ## 👨‍💻 Author
--Gurmeet Punia
+Gurmeet Punia
 ----
 
 ## ⚙️ How to Run Locally
