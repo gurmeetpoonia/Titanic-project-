@@ -45,10 +45,10 @@ This project demonstrates a complete end-to-end Machine Learning workflow:
 ---
 
 ## 📁 Project Structure
-app.py
-titanic_model.pkl
-requirements.txt
-README.md
+   app.py
+   titanic_model.pkl
+   requirements.txt
+   README.md
 
 ---
 ## 📌 How It Works
