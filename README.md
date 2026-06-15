@@ -1,42 +1,47 @@
-# 🚢 Titanic Survival Prediction (Machine Learning Project)
+# 🚢 Titanic Survival Prediction App
 
-This project predicts whether a passenger survived the Titanic disaster using Logistic Regression.
-
----
-
-## 📊 Dataset
-- Titanic dataset from Kaggle
-- Features used: Pclass, Sex, Age, Fare, Embarked
+This is a Machine Learning web application built using Streamlit that predicts whether a passenger would have survived the Titanic disaster based on input features such as age, gender, class, and more.
 
 ---
 
-## ⚙️ Technologies Used
+## 🚀 Live Demo
+👉 https://unxnuvmmjzxu9btybj4zqe.streamlit.app/
+
+---
+
+## 📊 Project Overview
+This project demonstrates a complete end-to-end Machine Learning workflow:
+- Data preprocessing
+- Model training
+- Model saving using pickle
+- Web deployment using Streamlit
+
+---
+
+## 🧠 Features Used
+- Passenger Class (Pclass)
+- Gender (Sex)
+- Age
+- Siblings/Spouses aboard (SibSp)
+- Parents/Children aboard (Parch)
+- Fare
+
+---
+
+## 🤖 Machine Learning Model
+- Algorithm: Logistic Regression / Decision Tree (whatever you used)
+- Library: scikit-learn
+- Model saved using: `pickle`
+
+---
+
+## 🛠️ Tech Stack
 - Python 🐍
+- Streamlit
 - Pandas
 - NumPy
 - Scikit-learn
-- Streamlit
-- Joblib
 
 ---
 
-## 🤖 Model
-- Algorithm: Logistic Regression
-- Accuracy: ~79%
-
----
-
-## 🚀 Features
-- Data cleaning (missing values handling)
-- Feature encoding (Sex, Embarked)
-- Model training & saving
-- Web app using Streamlit
-- Real-time prediction
-
----
-
-## 🌐 How to Run Locally
-
-```bash
-pip install -r requirements.txt
-streamlit run app.py
+## 📁 Project Structure
