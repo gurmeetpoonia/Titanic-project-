@@ -5,7 +5,7 @@ This is a Machine Learning web application built using Streamlit that predicts w
 ---
 
 ## 🚀 Live Demohttps://github.com/gurmeetpoonia/Titanic-project-/edit/main/README.md
-👉 https://unxnuvmmjzxu9btybj4zqe.streamlit.app/
+👉https://nhwkzmkxxnzkupvuqku4kn.streamlit.app/
 
 ---
 
